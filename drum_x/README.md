@@ -12,10 +12,10 @@ If not, refer to the official Flutter documentation for installation instruction
 
 2.Clone this repository to your local machine using the following 
 command:
-git clone https://github.com/sajadflutter/drumx.git
+git clone https://github.com/sajadflutter/drum_x.git
 
 3.Change your current directory to the project's root directory:
-cd drumx
+cd drum_x
 
 4.Install the dependencies by running the following command:
 flutter pub get
